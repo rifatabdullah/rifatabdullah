@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ai Automation || CyberSec || Python Developer || Robotics & Vision 
+<h1>AI Automation || CyberSec || Python Developer || Robotics & Vision </h1>
 
 
 ## 🌐 Socials:
